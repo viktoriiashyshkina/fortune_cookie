@@ -14,7 +14,8 @@ public class FortuneService {
             "A surprise awaits you around the corner.",
             "Now is the time to try something new.",
             "Your hard work will soon pay off.",
-            "Happiness begins with facing life with a smile and a wink."
+            "Happiness begins with facing life with a smile and a wink.",
+            "Hello-hello"
     );
 
     private final Random random = new Random();
